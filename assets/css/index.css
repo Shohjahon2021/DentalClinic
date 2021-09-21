@@ -606,6 +606,7 @@ header .social-item .item-icon {
   -webkit-transition: .2s;
   -o-transition: .2s;
   transition: .2s;
+  cursor: pointer;
 }
 
 .intro-btn:hover {
